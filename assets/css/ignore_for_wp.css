@@ -1,31 +1,4 @@
 
-/* Base styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-/* Small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-}
-
-/* Medium devices (portrait tablets and large phones, 600px to 768px) */
-@media only screen and (min-width: 600px) and (max-width: 768px) {
-    body {
-        background-color: lightgreen;
-    }
-}
-
-/* Large devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-    body {
-        background-color: lightcoral;
-    }
-}
 #scrolly-video {
     position: center;
     top: 0;
